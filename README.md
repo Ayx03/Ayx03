@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### [MoeFox.Tech](https://moefox.tech/)
+大道至简 ~~这只是一个临时网站，然而我并没有打算重新设计它~~
+#### [My Homepage](https://l03.me/)
+#### [My Blog](https://aynxu.l03.me/)
