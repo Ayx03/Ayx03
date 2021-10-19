@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### [Aynxul03 写字的地方](https://ayx.moefox.tech/)
 ### [萌狸科技](https://moefox.tech/)
 大道至简 ~~这只是一个临时网站，然而我并没有打算重新设计它~~
 ### [淀粉月刊](https://dfkan.com/)
 鸽子聚集地
-### [My Homepage](https://l03.me/)
-### [My Blog](https://aynxu.l03.me/)
