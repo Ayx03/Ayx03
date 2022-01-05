@@ -1,7 +1,7 @@
 ## Hi there 👋
 Aynxul03.
 
-常用邮箱：ayx03#pm.me（将 ```#``` 替换为 ```@``` ）
+常用邮箱：aynxul03#gmail.com（将 ```#``` 替换为 ```@``` ）
 <!--
 **Ayx03/Ayx03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ### [萌狸科技](https://moefox.tech/)
 大道至简 ~~这只是一个临时网站，然而我并没有打算重新设计它~~
 ### [淀粉月刊](https://dfkan.com/)
-鸽子聚集地
+某不知名的鸽子聚集地
