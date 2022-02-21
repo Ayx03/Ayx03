@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 大道至简 ~~这只是一个临时网站，然而我并没有打算重新设计它~~
 ### [淀粉月刊](https://dfkan.com/)
 某不知名的鸽子聚集地
+### [GitHub Pages Repository(Private)](https://github.com/Ayx03/Ayx03.github.io)
