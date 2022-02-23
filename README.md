@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 ### [淀粉月刊](https://dfkan.com/)
 某不知名的鸽子聚集地
 ### [GitHub Pages Repository(Private)](https://github.com/Ayx03/Ayx03.github.io)
+### [Translation Repository](https://github.com/Ayx03/Translation)
