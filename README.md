@@ -2,6 +2,8 @@ Hi there 👋
 
 `Aynxul03`. In short: `Ayx03` or `Ayx`
 
+###### Fun fact: This ID is created in the way similar to `vfleaking`
+
 有事找我请首先考虑发邮件，虽然你大概率也没什么事找我。
 
 📮我的常用邮箱：aynxul03@gmail.com
