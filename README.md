@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/75155322/185677596-8915d44f-3da7-4ac4-b5d5-1d90401121d0.png" align=right height=250px />
 Hi there 👋
 
 `Aynxul03`. In short: `Ayx03` or `Ayx`
