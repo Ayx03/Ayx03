@@ -1,13 +1,15 @@
 <img src="https://user-images.githubusercontent.com/75155322/185677596-8915d44f-3da7-4ac4-b5d5-1d90401121d0.png" align=right height=250px />
-Hi there 👋
 
-`Aynxul03`. In short: `Ayx03` or `Ayx`
+I'm `Aynxul03`. In short `Ayx03` or `Ayx`
 
 ###### Fun fact: This ID is created in the way similar to `vfleaking`
 
 有事找我请首先考虑发邮件，虽然你大概率也没什么事找我。
 
 📮我的常用邮箱：aynxul03@gmail.com
+我的 PGP Public Key：https://gist.github.com/Ayx03/e3e83b2de775ea5ba11779a10b71b07f
+
+希望这次我不会把私钥弄丢（
 
 ## [Ayx 博客](https://imayx.top/)
 （预计每年7月会更换一次域名。通过 <https://ayx03.github.io/> 总能跳转到最新的使用 GitHub Pages 的域名，通过 <https://jmpyx.github.io/> 总能跳转到最新的使用 Vercel 的域名。）
@@ -15,7 +17,7 @@ Hi there 👋
 ~~这只是一个临时网站，然而我并没有打算重新设计它~~ **大道至简**
 ## [淀粉月刊](https://dfkan.com/)
 某不知名的鸽子聚集地
-### [Translation Repository(Ayx03/Translation)](https://github.com/Ayx03/Translation) Current Project `54.4%`
+### [Translation Repository(Ayx03/Translation)](https://github.com/Ayx03/Translation) Current Project `70.0%`
 
 ## 我还在
 
