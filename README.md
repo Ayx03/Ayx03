@@ -1,13 +1,17 @@
 <!--GitHub User Content Backup<img src="https://user-images.githubusercontent.com/75155322/185677596-8915d44f-3da7-4ac4-b5d5-1d90401121d0.png" align=right height=250px />-->
-<img src="https://s2.loli.net/2022/08/30/mEpKIh6VAHCvqwe.jpg" align=right height=500px>
-I'm `Aynxul03`. In short `Ayx03` or `Ayx`
+<img src="https://s2.loli.net/2022/08/30/mEpKIh6VAHCvqwe.jpg" align=right height=233px>
 
+## I'm `Aynxul03`.
 ###### Fun fact: This ID is created in the way similar to `vfleaking`
+In short: `Ayx03` or `Ayx`
 
 有事找我请首先考虑发邮件，虽然你大概率也没什么事找我。
 
 📮我的常用邮箱：aynxul03@gmail.com
-我的 PGP Public Key：https://gist.github.com/Ayx03/e3e83b2de775ea5ba11779a10b71b07f
+
+我的 PGP Public Key：<https://gist.github.com/Ayx03/e3e83b2de775ea5ba11779a10b71b07f>
+
+RSA 4096-bit For Safety Paranoid: <https://gist.github.com/Ayx03/10c0a89c8ed50a5489b402bdf5bf5d46>
 
 希望这次我不会把私钥弄丢（
 
