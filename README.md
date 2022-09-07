@@ -11,7 +11,7 @@ In short: `Ayx03` or `Ayx`
 
 我的 PGP Public Key：<https://gist.github.com/Ayx03/e3e83b2de775ea5ba11779a10b71b07f>
 
-RSA 4096-bit For Safety Paranoid: <https://gist.github.com/Ayx03/10c0a89c8ed50a5489b402bdf5bf5d46>
+RSA 4096-bit For Safety Paranoid: <https://github.com/Ayx03.gpg>
 
 希望这次我不会把私钥弄丢（
 
