@@ -29,10 +29,6 @@ bilibili
 
 [@Aynxul03](https://space.bilibili.com/13509072) (uid13509072)
 
-洛谷
-
-[@Aynxul03](https://www.luogu.com.cn/user/267459)
-
 知乎
 
 [@Aynxul03](https://www.zhihu.com/people/Aynxul03)
