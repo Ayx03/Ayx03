@@ -15,13 +15,13 @@ RSA 4096-bit For Safety Paranoid: <https://github.com/Ayx03.gpg>
 
 希望这次我不会把私钥弄丢（
 
-## [Ayx 博客](https://imayx.top/)
-（预计每年7月会更换一次域名。通过 <https://ayx03.github.io/> 总能跳转到最新的使用 GitHub Pages 的域名，通过 <https://jmpyx.github.io/> 总能跳转到最新的使用 Vercel 的域名。）
+## [Ayx 博客](https://ablo.ga/)
+（~~预计每年7月会更换一次域名。~~现在的域名考虑继续续费。通过 <https://ayx03.github.io/> 总能跳转到最新的使用 GitHub Pages 的域名，通过 <https://jmpyx.github.io/> 总能跳转到最新的使用 Vercel 的域名。）
 ## [萌狸科技](https://f.imayx.top/)
 ~~这只是一个临时网站，然而我并没有打算重新设计它~~ **大道至简**
 ## [淀粉月刊](https://dfkan.com/)
 某不知名的鸽子聚集地
-### [Translation Repository(Ayx03/Translation)](https://github.com/Ayx03/Translation) Current Project `70.0%`
+### [Translation Repository(Ayx03/Translation)](https://github.com/Ayx03/Translation) Just finished a big project
 
 ## 我还在
 
@@ -31,7 +31,7 @@ bilibili
 
 知乎
 
-[@Aynxul03](https://www.zhihu.com/people/Aynxul03)
+[@ImAyx](https://www.zhihu.com/people/Aynxul03)
 
 ##### [GitHub Pages Repository(Private)](https://github.com/Ayx03/Ayx03.github.io)
 <!--
