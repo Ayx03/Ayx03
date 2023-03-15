@@ -7,7 +7,7 @@ In short: `Ayx03` or `Ayx`
 
 有事找我请首先考虑发邮件，虽然你大概率也没什么事找我。
 
-📮我的邮箱：github@imayx.top
+📮我的邮箱：GitHub^ImAyx.Pro （将`^`替换为`@`）
 
 我的 PGP Public Key：<https://gist.github.com/Ayx03/e3e83b2de775ea5ba11779a10b71b07f>
 
@@ -31,7 +31,7 @@ bilibili
 
 知乎
 
-[@ImAyx](https://www.zhihu.com/people/Aynxul03)
+[~~@ImAyx~~](https://www.zhihu.com/people/Aynxul03) [此账号暂时停用](https://www.zhihu.com/pin/1613947009429450752)，有想发的会发在 [@Ayx03](https://www.zhihu.com/people/notayx03)
 
 ##### [GitHub Pages Repository(Private)](https://github.com/Ayx03/Ayx03.github.io)
 <!--
