@@ -3,7 +3,7 @@
 
 ## I'm `Aynxul03`.
 ###### Fun fact: This ID is created in the way similar to `vfleaking`
-In short: `Ayx03` or `Ayx`
+In short: `Ayx03` or `Ayx` or `ImAyx`
 
 有事找我请首先考虑发邮件，虽然你大概率也没什么事找我。
 
