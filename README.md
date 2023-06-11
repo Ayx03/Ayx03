@@ -33,7 +33,7 @@ bilibili
 
 [~~@ImAyx~~](https://www.zhihu.com/people/Aynxul03) [此账号暂时停用](https://www.zhihu.com/pin/1613947009429450752)，有想发的会发在 [@Ayx03](https://www.zhihu.com/people/notayx03)
 
-##### [GitHub Pages Repository(Private)](https://github.com/Ayx03/Ayx03.github.io)
+#### [GitHub Pages Repository](https://github.com/Ayx03/Ayx03.github.io)
 <!--
 **Ayx03/Ayx03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
