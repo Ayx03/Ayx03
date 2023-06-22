@@ -1,5 +1,5 @@
 <!--GitHub User Content Backup<img src="https://user-images.githubusercontent.com/75155322/185677596-8915d44f-3da7-4ac4-b5d5-1d90401121d0.png" align=right height=250px />-->
-<img src="https://s2.loli.net/2022/08/30/mEpKIh6VAHCvqwe.jpg" align=right height=233px>
+<img src="https://s2.loli.net/2022/08/30/mEpKIh6VAHCvqwe.jpg" align=right height=232px>
 
 ## I'm `Aynxul03`.
 ###### Fun fact: This ID is created in the way similar to `vfleaking`
@@ -31,7 +31,9 @@ bilibili
 
 知乎
 
-[~~@ImAyx~~](https://www.zhihu.com/people/Aynxul03) [此账号暂时停用](https://www.zhihu.com/pin/1613947009429450752)，有想发的会发在 [@Ayx03](https://www.zhihu.com/people/notayx03)
+[@ImAyx](https://www.zhihu.com/people/Aynxul03) [~~此账号暂时停用~~](https://www.zhihu.com/pin/1613947009429450752)
+
+[@Ayx03](https://www.zhihu.com/people/notayx03)
 
 #### [GitHub Pages Repository](https://github.com/Ayx03/Ayx03.github.io)
 <!--
