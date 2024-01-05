@@ -8,7 +8,7 @@ In short: `Ayx03` or `Ayx` or `ImAyx`
 
 有事找我请首先考虑发邮件，虽然你大概率也没什么事找我。
 
-📮我的邮箱：GitHub^ImAyx.Pro （将`^`替换为`@`）
+📮我的邮箱：github^imayx.top （将`^`替换为`@`）
 
 我的 PGP Public Key：<https://gist.github.com/Ayx03/e3e83b2de775ea5ba11779a10b71b07f>
 
