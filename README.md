@@ -36,7 +36,7 @@ RSA 4096-bit For Safety Paranoid: <https://github.com/Ayx03.gpg>
 
 bilibili
 
-[@Ayx0（直播号）](https://space.bilibili.com/13509072) (uid13509072)
+[@Ayx0（目前的主账号&视频投稿&直播号）](https://space.bilibili.com/13509072) (uid13509072)
 [@ImAyx](https://space.bilibili.com/155826488) (uid155826488)
 [@Aynxul（视频搬运）](https://space.bilibili.com/1256874824) (uid1256874824)
 
