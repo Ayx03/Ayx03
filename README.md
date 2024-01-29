@@ -10,12 +10,6 @@ In short: `Ayx03` or `Ayx` or `ImAyx`
 
 📮我的邮箱：github^imayx.top （将`^`替换为`@`）
 
-我的 PGP Public Key：<https://gist.github.com/Ayx03/e3e83b2de775ea5ba11779a10b71b07f>
-
-RSA 4096-bit For Safety Paranoid: <https://github.com/Ayx03.gpg>
-
-希望这次我不会把私钥弄丢（
-
 ## [个人博客](https://imayx.top/)
 ~~预计每年7月会更换一次域名。~~ 现在的域名（[imayx.top](https://imayx.top)）会继续续费。
 
@@ -51,6 +45,13 @@ bilibili
 某不知名的鸽子聚集地
 ### [Translation Repository(Ayx03/Translation)](https://github.com/Ayx03/Translation) Just finished a big project
 
+## PGP
+
+我的 PGP Public Key：<https://gist.github.com/Ayx03/e3e83b2de775ea5ba11779a10b71b07f>
+
+RSA 4096-bit For Safety Paranoid: <https://github.com/Ayx03.gpg>
+
+希望这次我不会把私钥弄丢（其实很少有人给我发邮件，加密邮件更是从来没有收到过）
 
 <!--
 **Ayx03/Ayx03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
