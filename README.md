@@ -24,13 +24,8 @@ RSA 4096-bit For Safety Paranoid: <https://github.com/Ayx03.gpg>
 通过 <https://jmpyx.github.io/> 总能跳转到最新的使用 Vercel 的域名。）
 
 ~~感觉更新起来很麻烦啊~~
-## [萌狸科技](https://m.imayx.top/)
-~~这只是一个临时网站，然而我并没有打算重新设计它~~ **大道至简**
 
-~~之前还放错链接了~~
-## [淀粉月刊](https://dfkan.com/)
-某不知名的鸽子聚集地
-### [Translation Repository(Ayx03/Translation)](https://github.com/Ayx03/Translation) Just finished a big project
+很可能是我的下一个博客：<https://blog.imayx.top/>
 
 ## 我还在
 
@@ -47,6 +42,16 @@ bilibili
 [@Ayx03](https://www.zhihu.com/people/notayx03)
 
 #### [GitHub Pages Repository](https://github.com/Ayx03/Ayx03.github.io)
+
+## [萌狸科技](https://m.imayx.top/)
+~~这只是一个临时网站，然而我并没有打算重新设计它~~ **大道至简**
+
+~~之前还放错链接了~~
+## [淀粉月刊](https://dfkan.com/)
+某不知名的鸽子聚集地
+### [Translation Repository(Ayx03/Translation)](https://github.com/Ayx03/Translation) Just finished a big project
+
+
 <!--
 **Ayx03/Ayx03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
