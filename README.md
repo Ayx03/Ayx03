@@ -19,7 +19,7 @@ In short: `Ayx03` or `Ayx` or `ImAyx`
 
 ~~感觉更新起来很麻烦啊~~
 
-很可能是我的下一个博客：<https://blog.imayx.top/>
+很可能是我的下一个博客（已经导入了原有静态博客的所有文章）：<https://blog.imayx.top/>
 
 ## 我还在
 
