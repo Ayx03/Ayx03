@@ -8,7 +8,7 @@ In short: `Ayx03` or `Ayx` or `ImAyx`
 
 有事找我请首先考虑发邮件，虽然你大概率也没什么事找我。
 
-📮我的邮箱：github^imayx.top （将`^`替换为`@`）
+📮我的邮箱：github@imayx.top
 
 ## [个人博客](https://imayx.top/)
 ~~预计每年7月会更换一次域名。~~ 现在的域名（[imayx.top](https://imayx.top)）会继续续费。
