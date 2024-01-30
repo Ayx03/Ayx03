@@ -32,7 +32,7 @@ bilibili/哔哩哔哩/b站
 ~~之前还放错链接了~~
 ## [淀粉月刊](https://dfkan.com/)
 某不知名的鸽子聚集地
-### [Translation Repository(Ayx03/Translation)](https://github.com/Ayx03/Translation) Just finished a big project
+### [翻译仓库/Translation Repository(Ayx03/Translation)](https://github.com/Ayx03/Translation)
 
 ## 关于我的博客
 
