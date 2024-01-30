@@ -4,11 +4,9 @@
 ## I'm `Aynxul03`.
 In short: `Ayx03` or `Ayx` or `ImAyx`
 
-学得越多越能感受到自身的不足。
+Discord：ayx03 Telegram: [@Ayx03](https://t.me/ayx03)
 
-有事找我请首先考虑发邮件，虽然你大概率也没什么事找我。
-
-📮我的邮箱：github@imayx.top
+📮Email：github@imayx.top
 
 ## [个人博客](https://imayx.top/)
 
@@ -25,8 +23,6 @@ bilibili/哔哩哔哩/b站
 [@Aynxul（视频搬运）](https://space.bilibili.com/1256874824) (uid1256874824)
 
 知乎：[@ImAyx](https://www.zhihu.com/people/Aynxul03)、[@Ayx03](https://www.zhihu.com/people/notayx03)
-
-Discord：ayx03 Telegram: [@Ayx03](https://t.me/ayx03)
 
 #### [GitHub Pages Repository](https://github.com/Ayx03/Ayx03.github.io)
 
