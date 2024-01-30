@@ -22,6 +22,8 @@ bilibili/哔哩哔哩/b站
 [@ImAyx](https://space.bilibili.com/155826488) (uid155826488)
 [@Aynxul（视频搬运）](https://space.bilibili.com/1256874824) (uid1256874824)
 
+YouTube：[@AyxCh](https://www.youtube.com/@AyxCh) [@ImAyx](https://www.youtube.com/@ImAyx)
+
 知乎：[@ImAyx](https://www.zhihu.com/people/Aynxul03)、[@Ayx03](https://www.zhihu.com/people/notayx03)
 
 #### [GitHub Pages Repository](https://github.com/Ayx03/Ayx03.github.io)
