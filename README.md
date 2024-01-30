@@ -11,13 +11,6 @@ In short: `Ayx03` or `Ayx` or `ImAyx`
 📮我的邮箱：github@imayx.top
 
 ## [个人博客](https://imayx.top/)
-~~预计每年7月会更换一次域名。~~ 现在的域名（[imayx.top](https://imayx.top)）会继续续费。
-
-通过 <https://ayx03.github.io/> 总能跳转到最新的使用 GitHub Pages 的域名
-
-通过 <https://jmpyx.github.io/> 总能跳转到最新的使用 Vercel 的域名。）
-
-~~感觉更新起来很麻烦啊~~
 
 很可能是我的下一个博客（已经导入了原有静态博客的所有文章）：<https://blog.imayx.top/>
 
@@ -44,6 +37,16 @@ Discord：ayx03 Telegram: [@Ayx03](https://t.me/ayx03)
 ## [淀粉月刊](https://dfkan.com/)
 某不知名的鸽子聚集地
 ### [Translation Repository(Ayx03/Translation)](https://github.com/Ayx03/Translation) Just finished a big project
+
+## 关于我的博客
+
+~~预计每年7月会更换一次域名。~~ 现在的域名（[imayx.top](https://imayx.top)）会继续续费。
+
+通过 <https://ayx03.github.io/> 总能跳转到最新的使用 GitHub Pages 的域名
+
+通过 <https://jmpyx.github.io/> 总能跳转到最新的使用 Vercel 的域名。）
+
+~~感觉（静态博客）更新起来很麻烦啊~~
 
 ## PGP
 
