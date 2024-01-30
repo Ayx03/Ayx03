@@ -23,17 +23,15 @@ In short: `Ayx03` or `Ayx` or `ImAyx`
 
 ## 我还在
 
-bilibili
+AcFun：[@Ayx03](https://www.acfun.cn/u/47292415) [@这不兰子吗](https://www.acfun.cn/u/56814340)（锡兰Ceylan视频搬运号）
+
+bilibili/哔哩哔哩/b站
 
 [@Ayx0（目前的主账号&视频投稿&直播号）](https://space.bilibili.com/13509072) (uid13509072)
 [@ImAyx](https://space.bilibili.com/155826488) (uid155826488)
 [@Aynxul（视频搬运）](https://space.bilibili.com/1256874824) (uid1256874824)
 
-知乎
-
-[@ImAyx](https://www.zhihu.com/people/Aynxul03)
-
-[@Ayx03](https://www.zhihu.com/people/notayx03)
+知乎：[@ImAyx](https://www.zhihu.com/people/Aynxul03)、[@Ayx03](https://www.zhihu.com/people/notayx03)
 
 #### [GitHub Pages Repository](https://github.com/Ayx03/Ayx03.github.io)
 
