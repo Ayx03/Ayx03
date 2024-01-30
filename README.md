@@ -33,6 +33,8 @@ bilibili/哔哩哔哩/b站
 
 知乎：[@ImAyx](https://www.zhihu.com/people/Aynxul03)、[@Ayx03](https://www.zhihu.com/people/notayx03)
 
+Discord：ayx03 Telegram: [@Ayx03](https://t.me/ayx03)
+
 #### [GitHub Pages Repository](https://github.com/Ayx03/Ayx03.github.io)
 
 ## [萌狸科技](https://m.imayx.top/)
