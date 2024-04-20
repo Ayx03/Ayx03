@@ -38,7 +38,7 @@ YouTube：[@AyxCh](https://www.youtube.com/@AyxCh) [@ImAyx](https://www.youtube.
 
 ## 关于我的博客
 
-~~预计每年7月会更换一次域名。~~ 现在的域名（[imayx.top](https://imayx.top)）会继续续费。
+现在的域名（[imayx.top](https://imayx.top)）会继续续费。
 
 通过 <https://ayx03.github.io/> 总能跳转到最新的使用 GitHub Pages 的域名
 
