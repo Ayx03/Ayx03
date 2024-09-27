@@ -10,8 +10,6 @@ Discord：ayx03 Telegram: [@Ayx03](https://t.me/ayx03) Oopz 服务器 ID：96406
 
 ## [个人博客](https://imayx.top/)
 
-很可能是我的下一个博客（已经导入了原有静态博客的所有文章）：<https://blog.imayx.top/>
-
 ## 我还在
 
 AcFun：[@Ayx03](https://www.acfun.cn/u/47292415) [@这不兰子吗](https://www.acfun.cn/u/56814340)（锡兰Ceylan视频搬运号）
