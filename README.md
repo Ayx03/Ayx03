@@ -4,7 +4,7 @@
 ## I'm `Aynxul03`.
 In short: `Ayx03` or `Ayx` or `ImAyx`
 
-Discord：ayx03 Telegram: [@Ayx03](https://t.me/ayx03) Oopz 服务器 ID：964068830
+Discord：ayx03 Telegram: [@AyxPD](https://t.me/AyxPD) Oopz 服务器 ID：964068830
 
 📮Email：github@imayx.top
 
